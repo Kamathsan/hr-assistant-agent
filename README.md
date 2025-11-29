@@ -2,7 +2,7 @@
 
 **An intelligent AI-powered HR Assistant that provides instant, accurate answers to employee queries about policies, leave, and benefits.**
 
-![Status](https://img.shields.io/badge/status-production--ready-success) ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Status](https://img.shields.io/badge/status-production--ready-success) ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
 ---
 
@@ -71,6 +71,9 @@ Opens at `http://localhost:8501`
 ---
 ## Architecture Diagram
 <img width="1286" height="2211" alt="Untitled diagram-2025-11-29-135800" src="https://github.com/user-attachments/assets/f3c5f1f1-4c32-4400-a35e-601777e6cac1" />
+
+---
+
 ## User Journey
 <img width="1265" height="1950" alt="Untitled diagram-2025-11-29-140621" src="https://github.com/user-attachments/assets/71b87a61-855e-4e35-a5f6-a37e50e962df" />
 
