@@ -8,7 +8,7 @@
 
 ## 🎯 Overview
 
-The Rooman HR Assistant Agent streamlines HR operations by providing 24/7 instant access to company policies. Built with advanced NLP and smart context matching, it delivers 95%+ accurate responses with source citations.
+The Rooman HR Assistant Agent streamlines HR operations by providing 24/7 instant access to company policies. Built with advanced NLP and smart context matching, it delivers 95%+ accurate responses.
 
 ---
 
