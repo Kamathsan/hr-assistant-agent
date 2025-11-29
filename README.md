@@ -1,4 +1,4 @@
-# 🤖 Rooman HR Assistant Agent
+# 🤖 HR Assistant Agent
 
 **An intelligent AI-powered HR Assistant that provides instant, accurate answers to employee queries about policies, leave, and benefits.**
 
@@ -69,7 +69,14 @@ Opens at `http://localhost:8501`
 - **Data**: Pandas
 
 ---
+## Architecture Diagram
+<img width="1286" height="2211" alt="Untitled diagram-2025-11-29-135800" src="https://github.com/user-attachments/assets/f3c5f1f1-4c32-4400-a35e-601777e6cac1" />
 
+<img width="1265" height="1950" alt="Untitled diagram-2025-11-29-140621" src="https://github.com/user-attachments/assets/71b87a61-855e-4e35-a5f6-a37e50e962df" />
+
+---
+## Video Demo
+Drive: https://drive.google.com/file/d/1-tgxpZAGH0APkIJiEZ9cipsQGmd-OeHv/view?usp=sharing
 ## 📈 Business Impact
 
 **ROI Calculation:**
@@ -89,14 +96,3 @@ Opens at `http://localhost:8501`
 - 95%+ accuracy
 
 ---
-
-## 💼 Built For
-
-**Rooman Technologies AI Agent Challenge - November 2024**
-
-**Skills Demonstrated:**
-- Advanced NLP (keyword extraction, pattern recognition)
-- Algorithm design (relevance scoring)
-- Data visualization
-- Full-stack development
-- Product thinking (ROI analysis)
