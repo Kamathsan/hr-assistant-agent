@@ -71,7 +71,7 @@ Opens at `http://localhost:8501`
 ---
 ## Architecture Diagram
 <img width="1286" height="2211" alt="Untitled diagram-2025-11-29-135800" src="https://github.com/user-attachments/assets/f3c5f1f1-4c32-4400-a35e-601777e6cac1" />
-
+## User Journey
 <img width="1265" height="1950" alt="Untitled diagram-2025-11-29-140621" src="https://github.com/user-attachments/assets/71b87a61-855e-4e35-a5f6-a37e50e962df" />
 
 ---
@@ -81,17 +81,14 @@ Drive: https://drive.google.com/file/d/1-tgxpZAGH0APkIJiEZ9cipsQGmd-OeHv/view?us
 
 **ROI Calculation:**
 - 70% query automation
-- ₹3.8 lakhs annual savings per HR representative
 - 24/7 availability
 - < 1 second response time
 
 ---
 
 ## 📊 Project Stats
-
-- 943 lines of code
 - 7 core functions
-- 3 policy documents (11KB data)
+- 3 policy documents
 - 15+ question patterns
 - 95%+ accuracy
 
